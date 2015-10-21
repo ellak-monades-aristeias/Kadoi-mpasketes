@@ -37,11 +37,11 @@
 | 20/09  - 21/09       | 4 Ημέρες  | Έρευνα και αγορά πρώτων υλών και εργαλείων. Επίσης γίνονται τα πρώτα σχέδια στον υπολογιστή. |
 | 17/09  - 20/09       | 3 Ημέρες  | Συγγραφή της τεκμηρίωσης και των οδηγιών κατασκευής|
 
-Κατασκευαστικά manuals
+Κατασκευαστικά εγχειρίδια
 ======================
 Το πρώτο manual είναι το τελικό κατασκευαστικό εγχειρίδιο για τελικούς χρήστες ενώ το δεύτερο αφορά developers Και σχεδιαστές που ενδιαφέρονται να επεκτείνουν το έργο. Βελτιώσεις, δυσλειτουργίες, κλπ, προτείνονται να καταχωρούνται ως issues.
 
-[Manual για τελικούς χρήστες](https://github.com/ellak-monades-aristeias/Kadoi-mpasketes/blob/master/Files/Teliko%20Kataskevastiko%20Manual.pdf)
+[Manual για τελικούς χρήστες](https://github.com/ellak-monades-aristeias/Kadoi-mpasketes/blob/master/Files/Teliko%20Kataskevastiko%20Manual.pdf) -
 [Manual για developers και σχεδιαστές](https://github.com/ellak-monades-aristeias/Kadoi-mpasketes/blob/master/Files/Manual%20gia%20Developers.sxediastes.pdf)
 
 
