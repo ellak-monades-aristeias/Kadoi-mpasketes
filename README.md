@@ -39,8 +39,10 @@
 
 Κατασκευαστικά manuals
 ======================
+Το πρώτο manual είναι το τελικό κατασκευαστικό εγχειρίδιο για τελικούς χρήστες ενώ το δεύτερο αφορά developers Και σχεδιαστές που ενδιαφέρονται να επεκτείνουν το έργο. Βελτιώσεις, δυσλειτουργίες, κλπ, προτείνονται να καταχωρούνται ως issues.
+
 [Manual για τελικούς χρήστες](https://github.com/ellak-monades-aristeias/Kadoi-mpasketes/blob/master/Files/Teliko%20Kataskevastiko%20Manual.pdf)
-[Manual για developers και σχεδιαστές - βελτιώσεις, δυσλειτουργίες, κλπ, προτείνονται να καταχωρούνται ως ιssues](https://github.com/ellak-monades-aristeias/Kadoi-mpasketes/blob/master/Files/Manual%20gia%20Developers.sxediastes.pdf)
+[Manual για developers και σχεδιαστές](https://github.com/ellak-monades-aristeias/Kadoi-mpasketes/blob/master/Files/Manual%20gia%20Developers.sxediastes.pdf)
 
 
 Wiki
