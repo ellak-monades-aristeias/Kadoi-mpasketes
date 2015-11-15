@@ -1,3 +1,4 @@
+English version at the end of this file.
 
 Τι ακριβώς είναι οι Κάδοι-μπασκέτες;
 ====================================
@@ -49,3 +50,10 @@ Wiki
 ====
 
  Στην κατηγορία [Wiki](https://github.com/ellak-monades-aristeias/Kadoi-mpasketes/wiki) υπάρχουν πληροφορίες και φωτογραφικό υλικό από τις εργασίες.
+ 
+ 
+ 
+English description of the Basketball bins
+==========================================
+
+the 'Basketball bins' is a new type of bins that invites the students of a school (or the adults in a square) to throw their garbage in the appropriate bin - depending on the type of the garbage - aiming at the hoop of the construction that resembles the well known basketball game. Through those bins, the school yard can remain cleanh, the kids learn about waste and the importance of recycling and they also acquire a good habit that will follow them for the reast of their lives.
